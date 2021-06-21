@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 ### 你好，我是***时光不问故人期*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
