@@ -1,5 +1,3 @@
-### Yoo，我是时光不问故人期 👋
-
 <!--
 **KLiuZero/KLiuZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 你好，我是***时光不问故人期*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 你好，我是***时光不问故人期*** 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 📈 我的Github仓库
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
