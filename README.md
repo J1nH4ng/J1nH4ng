@@ -21,15 +21,17 @@ Here are some ideas to get you started:
   
 <br />
 
-你好，我是KInG2[KInG2_YOLO](https://www.ustsking.top/)......
+你好，我是[KInG2_YOLO](https://www.ustsking.top/)......
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:2838080432@qq.com) ^_^
-- 💬 Ask me about anything, I am happy to help;
+ <br/>
+  
+- 💼 想一起去干一些有意义的事情吗, [点我发送电子邮件](mailto:2838080432@qq.com) ^_^
+- 💬 你可以和我聊天，学习，打游戏;
 
-**Languages and Tools:**  
+**目前在学习的语言和工具:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -42,6 +44,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+  <!--
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -49,7 +53,9 @@ JSX          34 hrs 2 mins   █████████████████
 JavaScript   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 HTML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+  
 ```
+  -->
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
