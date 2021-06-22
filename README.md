@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 
 <!--END_SECTION:waka-->
 
-如果你喜欢我所做的事，给我买杯奶茶吧 
+如果你喜欢我所做的事，给我买杯奶茶吧
+  <br/>
 👉<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>👈
 
 🚧 **历史总结:**
@@ -58,6 +59,8 @@ Here are some ideas to get you started:
 ✅ 
 ⏳ 
 <!-- TODO-IST:END -->
+  
+  **一起来吧：**
   <a href="#">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
