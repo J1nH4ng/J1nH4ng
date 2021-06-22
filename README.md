@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 你好，我是***时光不问故人期***  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-📈 我的Github仓库
+📈 **我的Github仓库:**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
   <a href="#">
   <img align="left" alt=" Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+  <br/>
 <a href="#">
   <img align="left" alt="steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
@@ -73,6 +74,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
+  <br/>
 <a href="#">
   <img align="left" alt="twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
