@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 📈 我的Github仓库
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  
+
 <br />
 
 你好，我是[KInG2_YOLO](https://www.ustsking.top/)......
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+
  <br/>
-  
-- 💼 想一起去干一些有意义的事情吗, [点我发送电子邮件](mailto:2838080432@qq.com) ^_^
+
+- 💼 想一起去改变世界吗, [一起出发吧](mailto:2838080432@qq.com) ^_^
 - 💬 你可以和我聊天，学习，打游戏;
 
 **目前在学习的语言和工具:**  
@@ -42,42 +42,32 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **本周计划:**
 
-  <!--
-📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JSX          34 hrs 2 mins   ████████████████████████░   96.53 % 
-JavaScript   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-HTML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-  
-```
-  -->
+
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+如果你喜欢我所做的事，给我买杯奶茶吧 
+👉<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
+🚧 **历史总结:**
 <!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+🏆 
+🌸 
+✅ 
+⏳ 
 <!-- TODO-IST:END -->
   <a href="#">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
 <a href="#">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
-
 
