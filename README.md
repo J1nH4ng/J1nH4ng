@@ -61,21 +61,22 @@ Here are some ideas to get you started:
 <!-- TODO-IST:END -->
   
   **一起来吧：**
-  <br/>
+
+<br/>
   <a href="#">
   <img align="left" alt=" Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-  <br/>
-<a href="#">
-  <img align="left" alt="steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-</a>
+  </a>
+<br/>
+  <a href="#">
+    <img align="left" alt="steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
+  </a>
   <!--
 <a href="#">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
-  <br/>
-<a href="#">
-  <img align="left" alt="twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
-</a>
+<br/>
+  <a href="#">
+    <img align="left" alt="twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  </a>
 
