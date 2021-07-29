@@ -35,10 +35,10 @@
 
 > #### Think different
 >
-> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
->
 > ----乔布斯
->
+> 
+> ![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+> 
 > 向那些疯狂的家伙们致敬，
 >
 > 他们特立独行，
