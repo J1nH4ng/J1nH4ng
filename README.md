@@ -1,9 +1,8 @@
 ### :man_in_tuxedo:个人简介：
 你好，我是[KInG2_YOLO](https://www.ustsking.top/)，目前是个大学在读的学生。:wave:    
-![访问次数](https://profile-counter.glitch.me/KLiuZero/count.svg)  
-<br/>
 ![github](https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai)
-
+<br/>
+![访问次数](https://profile-counter.glitch.me/KLiuZero/count.svg)  
 - **我的设备**：
 
   [![](https://img.shields.io/badge/OS-Kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://www.kali.org//)[![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)[![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)[![](https://img.shields.io/badge/windows-10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)[![](https://img.shields.io/badge/iphone-XS-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
