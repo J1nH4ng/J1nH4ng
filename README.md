@@ -1,24 +1,13 @@
-<!--
-**KLiuZero/KLiuZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 个人简介
-你好，我是[KInG2_YOLO](https://www.ustsking.top/)，目前是个大学在读的学生。<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+你好，我是[KInG2_YOLO](https://www.ustsking.top/)，目前是个大学在读的学生。:wave:
 :chart_with_upwards_trend:**我的Github仓库:**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br/>
 
 ### 聊聊不切实际的梦想
+
 - :train2: 想一起去改变世界吗, [一起出发吧](mailto:2838080432@qq.com) ^_^
 - :speech_balloon: 你可以和我聊天，学习，打游戏;
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
