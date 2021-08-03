@@ -29,7 +29,11 @@
 
 ### :hourglass_flowing_sand:<a href="https://gist.github.com/KLiuZero/48bc1279e6b6b69ba178ae4c1ac3ff8c" target="_blank">Weekly Development Breakdown：</a>
 
-
+<!--START_SECTION:waka-->
+```text
+Markdown   16 mins         █████████████████████████   99.76 % 
+```
+<!--END_SECTION:waka-->
 
 ### :thinking:聊聊不切实际的梦想:
 
