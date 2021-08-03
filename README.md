@@ -3,7 +3,7 @@
 ![github](https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai)
 - **访问次数**：
   ![KLiuZero](https://count.getloli.com/get/@KLiuZero?theme=rule34) 
-  **所在地的天气**：
+- **所在地的天气**：
   <p>
   <img src="https://weather-icon.journeyad.repl.co/@gaoyou?v=1" align="right">
   </p>
