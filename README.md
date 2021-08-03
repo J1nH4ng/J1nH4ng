@@ -31,7 +31,7 @@
 
 
 
-### :thinking:聊聊不切实际的梦想:![访问次数](https://profile-counter.glitch.me/KLiuZero/count.svg)  
+### :thinking:聊聊不切实际的梦想:
 
 > #### Think different
 >
@@ -88,5 +88,5 @@
 
 - :train2: 想一起去改变世界吗, [一起出发吧](mailto:2838080432@qq.com) ^_^
 - :speech_balloon: 你可以和我聊天，学习，打游戏;
-- :registered:[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/loveljjforever/)![](https://visitor-badge.glitch.me/badge?page_id=KLiuZero.readme)
+- :registered:[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/loveljjforever/)
 
