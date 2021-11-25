@@ -33,9 +33,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML             1 hr 16 mins    █████████████████▓░░░░░░░   71.04 % 
-EJS              28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.52 % 
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+EJS              28 mins         ███████████████████████░░   91.58 % 
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
 
