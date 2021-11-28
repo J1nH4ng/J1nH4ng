@@ -33,8 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-EJS              28 mins         ███████████████████████░░   91.58 % 
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+EJS    28 mins         ████████████████████████▒   97.09 % 
 ```
 <!--END_SECTION:waka-->
 
