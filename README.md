@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-EJS    28 mins         ████████████████████████▒   97.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
