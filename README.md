@@ -33,9 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-EJS          31 mins         ██████████████████████▓░░   90.56 % 
-JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-LESS         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
