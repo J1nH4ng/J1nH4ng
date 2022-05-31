@@ -34,7 +34,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         56 mins         ██████████████░░░░░░░░░░░   56.13 %
+Jade         16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Stylus       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Pug          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+CSS          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
