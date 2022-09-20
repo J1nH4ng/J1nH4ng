@@ -1,6 +1,7 @@
-### :man_in_tuxedo:个人简介：
+# :man_in_tuxedo:个人简介：
+
 你好，我是[KInG2_YOLO](https://www.ustsking.top/)，目前是个大学在读的学生。:wave:   
-![github](https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai)
+
 - **访问次数**：
   ![KLiuZero](https://count.getloli.com/get/@KLiuZero?theme=rule34) 
 - **所在地的天气**：
@@ -23,13 +24,25 @@
 
   
 
-### :chart_with_upwards_trend:**我的Github数据:**
+# :chart_with_upwards_trend:**我的Github数据:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="info" style="zoom: 150%;" />
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KLiuZero&theme=radical">
+</p>
+ 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=KLiuZero&theme=redical">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLiuZero&layout=compact&hide_border=true&langs_count=10" alt="KInG2's Most used languages" style="zoom:150%;" />
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KLiuZero&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 
-### :hourglass_flowing_sand:<a href="https://gist.github.com/KLiuZero/48bc1279e6b6b69ba178ae4c1ac3ff8c" target="_blank">Weekly Development Breakdown：</a>
+<p align = "center">
+<img width="50%" src="https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai" />
+</p>
+# :hourglass_flowing_sand:<a href="https://gist.github.com/KLiuZero/48bc1279e6b6b69ba178ae4c1ac3ff8c" target="_blank">Weekly Development Breakdown：</a>
 
 <!--START_SECTION:waka-->
 
@@ -44,9 +57,9 @@ Markdown       0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### :thinking:聊聊不切实际的梦想:
+# :thinking:聊聊不切实际的梦想:
 
-> #### Think different
+> ## Think different
 >
 > ----乔布斯
 > 
