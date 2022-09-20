@@ -1,6 +1,6 @@
 # :man_in_tuxedo:个人简介：
 
-你好，我是[KInG2_YOLO](https://www.ustsking.top/)，目前是个大学在读的学生。:wave:   
+你好，我是[Ngu2a](https://blog.ngu2a.top/)，目前是个大学在读的学生。:wave:   
 
 - **访问次数**：
   ![KLiuZero](https://count.getloli.com/get/@KLiuZero?theme=rule34) 
@@ -27,6 +27,10 @@
 # :chart_with_upwards_trend:**我的Github数据:**
 
 <p align = "center">
+<img width="50%" src="https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai" />
+</p>
+
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=KLiuZero&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KLiuZero&theme=radical">
 </p>
@@ -39,9 +43,6 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KLiuZero&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<p align = "center">
-<img width="50%" src="https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai" />
-</p>
 # :hourglass_flowing_sand:<a href="https://gist.github.com/KLiuZero/48bc1279e6b6b69ba178ae4c1ac3ff8c" target="_blank">Weekly Development Breakdown：</a>
 
 <!--START_SECTION:waka-->
