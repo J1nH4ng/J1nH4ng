@@ -48,12 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         22 mins         █████████████████▒░░░░░░░   69.81 %
-MDX          9 mins          ███████░░░░░░░░░░░░░░░░░░   28.37 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
