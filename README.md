@@ -48,9 +48,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-AUTO_DETECTED    0 secs          ████████████████████▓░░░░   82.70 %
-Go               0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Go               3 mins          ███████████████████████▓░   95.15 %
+AUTO_DETECTED    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
