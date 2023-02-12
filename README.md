@@ -48,9 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go               3 mins          ███████████████████████▓░   95.15 %
-AUTO_DETECTED    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go               12 mins         ████████████████████████▓   98.05 %
+AUTO_DETECTED    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
