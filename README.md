@@ -33,7 +33,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=github_dark&line_height=0)
 
 
-## ⌨️<a href="https://gist.github.com/4JinHang/48bc1279e6b6b69ba178ae4c1ac3ff8c" target="_blank">每周Code Time</a>
+## ⌨️每周Code Time
 
 <!--START_SECTION:waka-->
 
