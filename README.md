@@ -47,3 +47,7 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:Code::Stats Box-->
+
+<!--END_SECTION:Code::Stats Box-->
