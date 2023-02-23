@@ -19,6 +19,7 @@
 
 ## ⚙️我的Github数据
 
+![](https://github-profile-trophy.vercel.app/?username=4JinHang)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4JinHang&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api?username=4JinHang&show_icons=true&theme=github_dark&line_height=27)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLiuZero&theme=github_dark) -->
