@@ -20,7 +20,7 @@
 ## ⚙️我的Github数据
 
 ![](https://github-profile-trophy.vercel.app/?username=4JinHang)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4JinHang&theme=2077)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4JinHang&theme=2077)-->
 ![](https://github-readme-stats.vercel.app/api?username=4JinHang&show_icons=true&theme=2077&line_height=27)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLiuZero&theme=github_dark) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4JinHang&theme=2077)
@@ -29,10 +29,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4JinHang&theme=2077)
 <!-- https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai" -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4JinHang&theme=2077)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4JinHang&theme=2077) -->
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=KLiuZero&theme=github_dark) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 
 ## ⌨️每周Code Time
