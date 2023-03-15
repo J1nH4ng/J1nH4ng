@@ -8,7 +8,7 @@
 ##  📝一些好玩的个人介绍
 
 - **访问次数**：
-  ![KLiuZero](https://count.getloli.com/get/@KLiuZero?theme=rule34) 
+  ![4JinHang](https://count.getloli.com/get/@4JinHang?theme=rule34) 
 - **所在地的天气**：
   ![天气](https://weather-icon.journeyad.repl.co/@gaoyou?v=1)
 - **我的设备**：
