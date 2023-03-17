@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         2 hrs 14 mins   ███████████████████████▒░   93.69 %
-JSON             9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   1 hr 48 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
