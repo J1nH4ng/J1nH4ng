@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/4JinHang/4JinHang/main/assets/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/4JinHang/4JinHang/main/assets/github-user-contribution.svg" >
 </div>
 
 <h1 align="center">Hello, I am <a href="https://ngu2a.top">Ngu2a</a></h1>
