@@ -40,8 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown       13 mins         ████████████████████████▒   97.80 %
-Shell Script   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Go             21 mins         ███████████████░░░░░░░░░░   60.27 %
+Markdown       13 mins         █████████▓░░░░░░░░░░░░░░░   38.85 %
+Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
