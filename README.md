@@ -35,7 +35,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 
-## ⌨️每周Code Time[![Waka Readme](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml/badge.svg)](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml)
+## ⌨️每周Code Time[![Waka Readme](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml/badge.svg)](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml)[![Update gist with Code::Stats stats](https://github.com/4JinHang/4JinHang/actions/workflows/codestats.yml/badge.svg)](https://github.com/4JinHang/4JinHang/actions/workflows/codestats.yml)
 
 <!--START_SECTION:waka-->
 
