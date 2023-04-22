@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I am <a href="https://ngu2a.top">Ngu2a</a></h1>
 <h3 align="center">A new coder who is still learning💻</h3>
   
-##  📝一些好玩的个人介绍[![Waka Readme](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml/badge.svg)](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml)
+##  📝一些好玩的个人介绍
 
 - **访问次数**：
   ![4JinHang](https://count.getloli.com/get/@4JinHang?theme=rule34) 
@@ -35,7 +35,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 
-## ⌨️每周Code Time
+## ⌨️每周Code Time[![Waka Readme](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml/badge.svg)](https://github.com/4JinHang/4JinHang/actions/workflows/wakatime.yml)
 
 <!--START_SECTION:waka-->
 
