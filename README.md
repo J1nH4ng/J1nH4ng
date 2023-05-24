@@ -40,11 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust              2 hrs 8 mins    █████████████████████▒░░░   85.19 %
-Protocol Buffer   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-GitIgnore file    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-TOML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Text              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Rust             49 mins         ███████████████████████░░   91.59 %
+GitIgnore file   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
