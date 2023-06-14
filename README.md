@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/iA10N3/iA10N3/main/assets/github-user-contribution.svg" >
 </div>
 
-<h1 align="center">Hello, I am <a href="https://localhost">Z0Rro</a></h1>
+<h1 align="center">Hello, I am <a href="https://localhost">Z0RR0</a></h1>
 <h3 align="center">A new coder who is still learning💻</h3>
   
 ##  📝一些好玩的个人介绍
@@ -35,7 +35,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 
-## ⌨️每周Code Time[![Waka Readme](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml/badge.svg)](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml)
+## ⌨️每周Code Time[![Waka Readme](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml/badge.svg)](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml)[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9)
 
 <!--START_SECTION:waka-->
 
