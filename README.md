@@ -51,5 +51,5 @@ JavaScript       15 mins         █░░░░░░░░░░░░░░�
 
 ### 项目时间统计
 
-- [*rus7udy*]()：[![wakatime](https://wakatime.com/badge/github/i410n3/rus7udy.svg)](https://wakatime.com/badge/github/i410n3/rus7udy)
-- [4NPEE]()：[![wakatime](https://wakatime.com/badge/github/i410n3/4NPEE.svg)](https://wakatime.com/badge/github/i410n3/4NPEE)
+- [**rus7udy**](https://github.com/i410n3/rus7udy)：[![wakatime](https://wakatime.com/badge/github/i410n3/rus7udy.svg)](https://wakatime.com/badge/github/i410n3/rus7udy)
+- [**4NPEE**](https://github.com/i410n3/4NPEE)：[![wakatime](https://wakatime.com/badge/github/i410n3/4NPEE.svg)](https://wakatime.com/badge/github/i410n3/4NPEE)
