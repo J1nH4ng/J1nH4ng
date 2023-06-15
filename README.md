@@ -35,7 +35,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 
-## ⌨️每周Code Time[![Waka Readme](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml/badge.svg)](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml)[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9)
+## ⌨️每周Code Time[![Waka Readme](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml/badge.svg)](https://github.com/iA10N3/iA10N3/actions/workflows/wakatime.yml)
 
 <!--START_SECTION:waka-->
 
@@ -48,3 +48,8 @@ JavaScript       15 mins         █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### 项目时间统计
+
+- [rus7udy]()：[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9)
+- [4NPEE]()：[![wakatime](https://wakatime.com/badge/github/i410n3/4NPEE.svg)](https://wakatime.com/badge/github/i410n3/4NPEE)
