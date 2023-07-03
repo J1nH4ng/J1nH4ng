@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 mins          ████████████▓░░░░░░░░░░░░   50.54 %
-PHP          5 mins          ███████████░░░░░░░░░░░░░░   44.11 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
