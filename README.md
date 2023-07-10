@@ -40,7 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   47 mins         █████████████████▓░░░░░░░   71.21 %
+Pug    17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
+Jade   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
