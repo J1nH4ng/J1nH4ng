@@ -51,5 +51,5 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 项目时间统计
 
-- [**rus7udy**](https://github.com/14bytes/rus7udy)：[![wakatime](https://wakatime.com/badge/github/i410n3/rus7udy.svg)](https://wakatime.com/badge/github/i410n3/rus7udy)![Alt](https://repobeats.axiom.co/api/embed/309233c5af26b4fad51da0cb9114f280d79f3e86.svg "Repobeats analytics image")
+- [**rus7udy**](https://github.com/14bytes/rus7udy)：[![wakatime](https://wakatime.com/badge/github/i410n3/rus7udy.svg)](https://wakatime.com/badge/github/i410n3/rus7udy)![Alt](https://repobeats.axiom.co/api/embed/9e98620a3c3f325c2c6b80c9db0fc61003a3e4e7.svg "Repobeats analytics image")
 - [**4NPEE**](https://github.com/14bytes/4NPEE)：[![wakatime](https://wakatime.com/badge/github/i410n3/4NPEE.svg)](https://wakatime.com/badge/github/i410n3/4NPEE)
