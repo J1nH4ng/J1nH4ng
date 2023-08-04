@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       5 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.50 %
-Markdown                   3 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.53 %
-TOML                       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-GitIgnore file             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Nginx configuration file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Rust             5 hrs 19 mins   ██████████████▓░░░░░░░░░░   58.12 %
+Markdown         2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+TOML             1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+GitIgnore file   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Vue.js           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
