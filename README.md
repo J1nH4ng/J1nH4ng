@@ -40,9 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         2 hrs 14 mins   ████████████████████████▓   98.30 %
-YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown              2 hrs 14 mins   ██████████████████████▓░░   91.13 %
+Nginx Configuration   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+textmate              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+ActionScript 3        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+YAML                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
