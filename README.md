@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/iA10N3/iA10N3/main/assets/github-user-contribution.svg" >
 </div>
 
-<h1 align="center">Hello, I am <a href="https://www.14bytes.com" target="_blank">Z0RR0</a></h1>
+<h1 align="center">Hello, I am <a href="https://www.14bytes.com" target="_blank">Zues</a></h1>
 <h3 align="center">A new coder who is still learning💻</h3>
   
 ##  📝一些好玩的个人介绍
