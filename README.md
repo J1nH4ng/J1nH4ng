@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript 3        1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-Nginx Configuration   1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-Python                56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-JSON                  37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-TypeScript            35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Python                56 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+TypeScript            35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+JSON                  32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Assembly              14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Nginx Configuration   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 ```
 
 <!--END_SECTION:waka-->
