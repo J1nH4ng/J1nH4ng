@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         5 hrs 3 mins    ███████████████▓░░░░░░░░░   63.18 %
-JavaScript       1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Rust             50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-GitIgnore file   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-TypeScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Markdown         4 hrs 32 mins   ███████████████████░░░░░░   76.40 %
+Rust             50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+JavaScript       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+GitIgnore file   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+TOML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
