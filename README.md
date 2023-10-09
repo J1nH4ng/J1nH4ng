@@ -40,7 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust             58 mins         ██████████████████▓░░░░░░   74.48 %
+GitIgnore file   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+TOML             5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
