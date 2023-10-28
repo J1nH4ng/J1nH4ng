@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                            1 hr 4 mins     ██████████████████░░░░░░░   71.66 %
-TOML                            15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-GitIgnore file                  5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Markdown                        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Writerside project descriptor   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Rust                            1 hr 3 mins     █████████████▓░░░░░░░░░░░   54.78 %
+TOML                            24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+GitIgnore file                  17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Markdown                        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Writerside project descriptor   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
