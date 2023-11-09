@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/BytesPirate/BytesPirate/main/assets/github-user-contribution.svg" >
 </div>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px">Hello, I am <a href="https://www.14bytes.com" target="_blank">Z3us</a></h1>
+<h1 align="center">Hello, I am <a href="https://www.14bytes.com" target="_blank">Z3us</a></h1>
 <h3 align="center">A new coder who is still learning💻</h3>
   
-##  📝一些好玩的个人介绍
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px">一些好玩的个人介绍
 
 - **访问次数**：
   ![BytesPirate](https://count.getloli.com/get/@BytesPirate?theme=rule34) 
