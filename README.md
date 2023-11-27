@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                        13 mins         ███████████▓░░░░░░░░░░░░░   46.87 %
-Rust                            9 mins          ████████▒░░░░░░░░░░░░░░░░   33.18 %
-GitIgnore file                  4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-INI                             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Writerside project descriptor   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TeX                             18 mins         ████████▒░░░░░░░░░░░░░░░░   33.03 %
+Markdown                        14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+Rust                            9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+GitIgnore file                  6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+LaTeX source file               5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
 ```
 
 <!--END_SECTION:waka-->
