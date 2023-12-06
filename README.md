@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/BytesPirate/BytesPirate/main/assets/github-user-contribution.svg" >
 </div>
 
-<h1 align="center">Hello, I am <a href="https://www.14bytes.com" target="_blank">Z3U5</a></h1>
-<h3 align="center">Wants to be the captain of 14bytes⚓</h3>
+<h1 align="center">Hello, I am Z3U5</h1>
+<h3 align="center">The captain of <a href="www.14bytes.com⚓" target="_blank">14bytes.com</a></h3>
   
 ##  <a href="https://github.com/BytesPirate" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> 一些好玩的个人介绍
 
