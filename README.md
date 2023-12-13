@@ -41,9 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         3 hrs 50 mins   ███████████████████████▒░   93.22 %
-JavaScript       16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown         1 hr 41 mins    █████████████████████▒░░░   85.78 %
+JavaScript       16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
