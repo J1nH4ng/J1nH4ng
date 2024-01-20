@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx Configuration   2 hrs 21 mins   ██████████████████▒░░░░░░   73.01 %
-Rust                  30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Bash                  14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Markdown              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-textmate              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Nginx Configuration   2 hrs 21 mins   ██████████████████████░░░   87.43 %
+Bash                  14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Markdown              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+textmate              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+GitIgnore file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
