@@ -41,8 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                  14 mins         ████████████████████████░   95.90 %
-Nginx Configuration   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Bash             23 mins         ██████████████░░░░░░░░░░░   55.41 %
+.env file        6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+JSON             6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+JavaScript       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Shell Script     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
