@@ -41,10 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C                2 hrs 18 mins   ██████████████████████▒░░   89.44 %
-GitIgnore file   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-C++              7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
