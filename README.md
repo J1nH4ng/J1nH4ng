@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   3 hrs 38 mins   ███████████████████▓░░░░░   78.55 %
-Bash                       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Nginx Configuration        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-TOML                       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-JavaScript                 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Markdown                   4 hrs 10 mins   ████████████████▓░░░░░░░░   66.16 %
+Bash                       57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+JSON                       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Nginx Configuration        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+JavaScript                 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
