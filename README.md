@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                       1 hr 45 mins    ██████████▓░░░░░░░░░░░░░░   42.65 %
-Bash                           1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-BashSupport Pro Shell Script   55 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-INI                            25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-GitIgnore file                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown                       3 hrs 29 mins   ███████████████░░░░░░░░░░   59.57 %
+Bash                           1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+BashSupport Pro Shell Script   55 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+INI                            25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+GitIgnore file                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
