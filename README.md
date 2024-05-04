@@ -41,9 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                       3 hrs 21 mins   ████████████████████████▓   98.73 %
-BashSupport Pro Shell Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Nginx Configuration Pro        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   1 hr 43 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
