@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BytesPirate/BytesPirate/main/assets/github-user-contribution.svg" >
+  <img src="https://raw.githubusercontent.com/J1nH4ng/J1nH4ng/main/assets/github-user-contribution.svg" >
 </div>
 
 <h1 align="center">Hello, I am B1t</h1>
 <h3 align="center">The captain of <a href="www.14bytes.com⚓" target="_blank">14bytes.com</a></h3>
   
-##  <a href="https://github.com/BytesPirate" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> 一些好玩的个人介绍
+##  <a href="https://github.com/J1nH4ng" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> 一些好玩的个人介绍
 
 - **访问次数**：
-  ![BytesPirate](https://count.getloli.com/get/@BytesPirate?theme=rule34) 
+  ![J1nH4ng](https://count.getloli.com/get/@J1nH4ng?theme=rule34) 
 - **所在地的天气**：
   ![天气](https://weather-icon.journeyad.repl.co/@suzhou?v=1)
 - **我的设备**：
@@ -20,14 +20,14 @@
 ## ⚙️我的Github数据
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=4JinHang) -->
-![image](https://github.com/BytesPirate/BytesPirate/assets/74055444/172e74a2-bf6e-4ba3-9c8d-13972951a78f)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BytesPirate&theme=2077) -->
+![image](https://github.com/J1nH4ng/J1nH4ng/assets/74055444/172e74a2-bf6e-4ba3-9c8d-13972951a78f)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J1nH4ng&theme=2077) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=4JinHang&show_icons=true&theme=2077&line_height=27) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLiuZero&theme=github_dark) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BytesPirate&theme=2077) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BytesPirate&theme=2077) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BytesPirate&theme=2077) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BytesPirate&theme=2077) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J1nH4ng&theme=2077) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J1nH4ng&theme=2077) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J1nH4ng&theme=2077) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J1nH4ng&theme=2077) -->
 <!-- https://metrics.lecoq.io/KLiuZero?template=classic&config.timezone=Asia%2FShanghai" -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4JinHang&theme=2077) -->
@@ -36,7 +36,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
 
-## ⌨️每周Code Time[![Waka Readme](https://github.com/BytesPirate/BytesPirate/actions/workflows/wakatime.yml/badge.svg)](https://github.com/BytesPirate/BytesPirate/actions/workflows/wakatime.yml)
+## ⌨️每周Code Time[![Waka Readme](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml/badge.svg)](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml)
 
 <!--START_SECTION:waka-->
 
@@ -48,9 +48,9 @@ No activity tracked
 
 ### 项目时间统计
 
-- [**rus7udy**](https://github.com/BytesPirate/rus7udy)：[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9)![Alt](https://repobeats.axiom.co/api/embed/8d973cef8eecf05eea4d0115505a645b4bc5e187.svg "Repobeats analytics image")
+- [**rus7udy**](https://github.com/J1nH4ng/rus7udy)：[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/f8c1b9f1-51bd-4f90-ab6e-1e166774e9e9)![Alt](https://repobeats.axiom.co/api/embed/8d973cef8eecf05eea4d0115505a645b4bc5e187.svg "Repobeats analytics image")
 <!-- - [**4NPEE**](https://github.com/14bytes/4NPEE)：[![wakatime](https://wakatime.com/badge/github/i410n3/4NPEE.svg)](https://wakatime.com/badge/github/i410n3/4NPEE) -->
-- [**TMP-1337**](https://github.com/BytesPirate/TMP-1337)：[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/018caf65-4c46-4153-99cd-7fc401b60d18.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/018caf65-4c46-4153-99cd-7fc401b60d18)![Alt](https://repobeats.axiom.co/api/embed/151a76600e1e1397e741c02d26c28053019f8e23.svg "Repobeats analytics image")
+- [**TMP-1337**](https://github.com/J1nH4ng/TMP-1337)：[![wakatime](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/018caf65-4c46-4153-99cd-7fc401b60d18.svg)](https://wakatime.com/badge/user/39661c39-3dd4-4ac3-bf85-81adb094315f/project/018caf65-4c46-4153-99cd-7fc401b60d18)![Alt](https://repobeats.axiom.co/api/embed/151a76600e1e1397e741c02d26c28053019f8e23.svg "Repobeats analytics image")
 
 <!-- ### 2023 年 Twitch
 
