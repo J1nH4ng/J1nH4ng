@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian,cloudflare,bsd&perline=8" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,notion,sublime,stackoverflow&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,notion,sublime,stackoverflow,obsidian,vscode&perline=8" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis,prometheus,npm,pnpm,grafana&perline=8" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,pnpm,regex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex&perline=8" />
   </a>
 </p>
 
