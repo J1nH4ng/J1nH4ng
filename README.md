@@ -51,7 +51,7 @@
 ## ⚙️我的Github数据
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=4JinHang) -->
-![image](https://github.com/J1nH4ng/J1nH4ng/assets/74055444/172e74a2-bf6e-4ba3-9c8d-13972951a78f)
+<!-- ![image](https://github.com/J1nH4ng/J1nH4ng/assets/74055444/172e74a2-bf6e-4ba3-9c8d-13972951a78f) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J1nH4ng&theme=2077) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=4JinHang&show_icons=true&theme=2077&line_height=27) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KLiuZero&theme=github_dark) -->
@@ -66,6 +66,9 @@
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=KLiuZero&theme=github_dark) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
+<p align="center">
+    <img style="width: 100%; src="https://github-readme-activity-graph.vercel.app/graph?username=J1nH4ng&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 ## ⌨️每周Code Time[![Waka Readme](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml/badge.svg)](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml)
 
@@ -74,6 +77,9 @@
 ```txt
 No activity tracked
 ```
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 
 <!--END_SECTION:waka-->
 
