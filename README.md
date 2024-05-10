@@ -66,8 +66,9 @@
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=KLiuZero&theme=github_dark) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=4JinHang&show_icons=true&locale=en&layout=compact&theme=2077&line_height=0) -->
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=J1nH4ng&theme=github-compact&hide_border=true&area=true" />
-</br>
+<p aligen="center">
+<img style="width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=J1nH4ng&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 ## ⌨️每周Code Time[![Waka Readme](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml/badge.svg)](https://github.com/J1nH4ng/J1nH4ng/actions/workflows/wakatime.yml)
 
@@ -76,9 +77,9 @@
 ```txt
 No activity tracked
 ```
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=J1nH4ng&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
+<p aligen="center">
+<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=J1nH4ng&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+</p>
 
 <!--END_SECTION:waka-->
 
