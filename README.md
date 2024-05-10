@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/J1nH4ng/J1nH4ng/main/assets/github-user-contribution.svg" >
 </div>
 
-<h1 align="center">Hello, I am B1t</h1>
-<h3 align="center">The captain of <a href="www.14bytes.com⚓" target="_blank">14bytes.com</a></h3>
+<p aligen="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20Here&section=header&reversal=false&desc=I%20am%20J1nH4ng&descAlign=50&descAlignY=65&descSize=25">
+</p>
   
 ##  <a href="https://github.com/J1nH4ng" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> 一些好玩的个人介绍
 
