@@ -17,12 +17,18 @@
 <!-- - **所在地的天气**：-->
 <!--  ![天气](https://weather-icon.journeyad.repl.co/@suzhou?v=1) -->
 - **我的设备**：
-  [![](https://img.shields.io/badge/OS-Kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://www.kali.org//)[![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)[![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)[![](https://img.shields.io/badge/windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)[![](https://img.shields.io/badge/iphone-XS-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch&perline=8" />
+  </a>
+</p>
+
 - **我的工具：**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,notion,sublime,stackoverflow&perline=8" />
   </a>
 </p>
 
@@ -30,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,rust,jenkins,bash,markdown" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,rust,jenkins,bash,markdown,elasticsearch,mysql,nginx,rabbitmq,redis&perline=8" />
   </a>
 </p>
 
