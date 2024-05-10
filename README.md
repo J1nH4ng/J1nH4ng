@@ -36,11 +36,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,rust,jenkins,bash,markdown,elasticsearch,mysql,nginx,rabbitmq,redis&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis&perline=8" />
   </a>
 </p>
 
-- **后续学习的语言：**[![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)[![](https://img.shields.io/badge/-jQuery-003545?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
+- **学习语言：**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,pnpm,regex&perline=8" />
+  </a>
+</p>
 
 ## ⚙️我的Github数据
 
