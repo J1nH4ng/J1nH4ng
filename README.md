@@ -20,7 +20,7 @@
 
 <p align="center" style="width: 100%;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian，ubuntu,bsd,cloudflare,vercel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian,ubuntu,bsd,cloudflare,vercel&perline=8" />
   </a>
 </p>
 
