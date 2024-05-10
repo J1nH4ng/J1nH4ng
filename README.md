@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis,prometheus,npm,pnpm,grafana,webpack,vite&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis,prometheus,ansible,npm,pnpm,yarn,grafana,webpack,vite,maven&perline=8" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex,ts,js,vue&perline=8" />
+    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex,ts,js,vue,css,html,htmx&perline=8" />
   </a>
 </p>
 
