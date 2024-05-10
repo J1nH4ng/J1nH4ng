@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20Here&section=header&reversal=false&desc=I%20am%20J1nH4ng&descAlign=50&descAlignY=65&descSize=25">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Captain+of+the+14bytes.com+website)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img aligen="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Captain+of+the+14bytes.com+website" alt="Typing SVG" /></a>
   
 ##  <a href="https://github.com/J1nH4ng" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> 一些好玩的个人介绍
 
