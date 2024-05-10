@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/J1nH4ng/J1nH4ng/main/assets/github-user-contribution.svg" >
-</div>
+</div> -->
 
 <p aligen="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20Here&section=header&reversal=false&desc=I%20am%20J1nH4ng&descAlign=50&descAlignY=65&descSize=25">
