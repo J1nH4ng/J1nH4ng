@@ -78,7 +78,7 @@
 No activity tracked
 ```
 <p aligen="center">
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=J1nH4ng&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=KInG2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
 
 <!--END_SECTION:waka-->
