@@ -20,7 +20,7 @@
 
 <p align="center" style="width: 100%;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian,cloudflare,bsd&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian，ubuntu,bsd,cloudflare,vercel&perline=8" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,webstorm,notion,sublime,stackoverflow,obsidian,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,webstorm,vscode,sublime,stackoverflow,notion,obsidian&perline=8" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis,prometheus,ansible,npm,pnpm,yarn,grafana,webpack,vite,maven&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis,prometheus,grafana,ansible,npm,pnpm,yarn,webpack,vite,maven&perline=8" />
   </a>
 </p>
 
