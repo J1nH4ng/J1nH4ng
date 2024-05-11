@@ -75,11 +75,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust             29 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
+Cheetah          24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.23 %
+Text             10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+TeX              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Markdown         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
-<p aligen="center">
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=KInG2&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-</p>
 
 <!--END_SECTION:waka-->
 
