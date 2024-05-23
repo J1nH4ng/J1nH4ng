@@ -95,5 +95,5 @@ INI                            7 mins          █▒░░░░░░░░░
 <!-- ![](https://static-cdn.jtvnw.net/recap-shareable/2023/487643891/viewer/db507038-6109-45c3-ada3-c7fb14fa5078.jpeg) -->
 
 <p aligen="center">
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Have%20a%20good%20day&section=footer&reversal=false&desc=hope%20your%20pragm%20is%20bug-free!&descAlign=50&descAlignY=33&descSize=25">
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Have%20a%20good%20day&section=footer&reversal=false&desc=hope%20your%20program%20is%20bug-free!&descAlign=50&descAlignY=33&descSize=25">
 </p>
