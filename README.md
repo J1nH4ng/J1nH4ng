@@ -75,11 +75,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                       5 hrs 57 mins   ██████████████████▓░░░░░░   75.33 %
-Nginx Configuration Pro        44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-SquidConf                      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-INI                            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-YAML                           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Markdown                       3 hrs 2 mins    ██████████████░░░░░░░░░░░   55.80 %
+Nginx Configuration Pro        1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+SquidConf                      29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+INI                            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+JSON                           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
