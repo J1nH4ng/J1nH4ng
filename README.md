@@ -20,7 +20,7 @@
 
 <p align="center" style="width: 100%;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian,ubuntu,bsd,cloudflare,vercel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian,ubuntu,bsd,cloudflare,vercel,github,gitlab&perline=8" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex,ts,js,vue,css,html,htmx&perline=8" />
+    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex,ts,js,vue,css,html,htmx,lua&perline=8" />
   </a>
 </p>
 
