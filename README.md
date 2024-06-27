@@ -20,7 +20,7 @@
 
 <p align="center" style="width: 100%;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,kali,arch,debian,ubuntu,bsd,cloudflare,vercel,github,gitlab&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,kali,raspberrypi,arch,debian,ubuntu,bsd,cloudflare,vercel,github,gitlab,discord,gcp,gmail,twitter&perline=8" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,webstorm,vscode,sublime,stackoverflow,notion,obsidian&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,webstorm,vscode,vscodium,sublime,stackoverflow,notion,obsidian&perline=8" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,mysql,nginx,rabbitmq,redis,prometheus,grafana,ansible,npm,pnpm,yarn,webpack,vite,maven&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,elasticsearch,kafka,mysql,nginx,rabbitmq,redis,prometheus,grafana,ansible,npm,pnpm,yarn,webpack,vite,maven&perline=8" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex,ts,js,vue,css,html,htmx,lua&perline=8" />
+    <img src="https://skillicons.dev/icons?i=rust,bash,md,nodejs,regex,ts,js,vue,css,html,htmx,lua,githubactions&perline=8" />
   </a>
 </p>
 
