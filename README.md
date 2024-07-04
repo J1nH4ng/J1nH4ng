@@ -75,11 +75,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                       2 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   35.70 %
-Bash                           2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
-Nginx Configuration Pro        1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-BashSupport Pro Shell Script   49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-Text                           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Bash                           6 hrs 1 min     █████████████▒░░░░░░░░░░░   53.21 %
+BashSupport Pro Shell Script   2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+Markdown                       2 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+Text                           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+PHP                            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
