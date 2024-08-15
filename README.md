@@ -75,11 +75,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                  2 hrs 59 mins   █████████████████▓░░░░░░░   70.07 %
-JSON                      50 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
-YAML                      15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Image (svg)               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Nginx Configuration Pro   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown                  3 hrs 22 mins   ██████████████████░░░░░░░   72.54 %
+JSON                      50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+YAML                      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Image (svg)               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Nginx Configuration Pro   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
