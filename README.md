@@ -75,11 +75,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           2 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.10 %
-BashSupport Pro Shell Script   1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
-Rust                           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Markdown                       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Text                           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Bash                           8 hrs 18 mins   █████████████████░░░░░░░░   67.59 %
+BashSupport Pro Shell Script   3 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Markdown                       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Text                           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GitIgnore file                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
