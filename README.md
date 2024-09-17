@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://app.daily.dev/b1ts">
-    <img src="https://api.daily.dev/devcards/v2/4JQb1QK25TYASbaqp1G4t.png?type=default&r=8uq" width="356" alt="B1ts's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/4JQb1QK25TYASbaqp1G4t.png?type=wide&r=8uq" width="652" alt="B1ts's Dev Card"/>
   </a>
 </p>
 
