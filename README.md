@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                       7 hrs 47 mins   ████████████▓░░░░░░░░░░░░   50.66 %
-Bash                           5 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   32.93 %
-BashSupport Pro Shell Script   1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-INI                            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-YAML                           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown                       9 hrs 53 mins   █████████████░░░░░░░░░░░░   52.63 %
+Bash                           5 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+BashSupport Pro Shell Script   1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+INI                            1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+YAML                           52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
