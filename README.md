@@ -83,11 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 31 mins   ██████████████████▒░░░░░░   72.74 %
-INI          41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
-YAML         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-textmate     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
