@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                  3 hrs           ███████████▓░░░░░░░░░░░░░   46.37 %
-Nginx Configuration Pro   1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-INI                       1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-YAML                      24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Text                      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Markdown                  2 hrs 40 mins   ██████████████░░░░░░░░░░░   56.53 %
+Nginx Configuration Pro   1 hr 33 mins    ████████▒░░░░░░░░░░░░░░░░   32.85 %
+YAML                      24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+textmate                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+GitIgnore file            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
