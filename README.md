@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx Configuration Pro   1 hr 47 mins    ██████████████████████▒░░   89.89 %
-JavaScript                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Markdown                  4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-YAML                      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Stylus                    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Nginx Configuration Pro   1 hr 47 mins    ████████████████▓░░░░░░░░   67.11 %
+CSS                       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Other                     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+JavaScript                5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+YAML                      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
