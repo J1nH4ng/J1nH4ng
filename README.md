@@ -83,9 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                    11 mins         ████████████████████▒░░░░   81.28 %
-textmate                  2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-Nginx Configuration Pro   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Bash                           1 hr 54 mins    ██████████▒░░░░░░░░░░░░░░   41.04 %
+Markdown                       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.62 %
+BashSupport Pro Shell Script   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Python                         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+textmate                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
