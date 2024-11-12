@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           1 hr 54 mins    ██████████▒░░░░░░░░░░░░░░   41.04 %
-Markdown                       1 hr 53 mins    ██████████░░░░░░░░░░░░░░░   40.62 %
-BashSupport Pro Shell Script   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Python                         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-textmate                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Markdown                       3 hrs 26 mins   █████████████▓░░░░░░░░░░░   55.33 %
+Bash                           1 hr 54 mins    ███████▓░░░░░░░░░░░░░░░░░   30.87 %
+BashSupport Pro Shell Script   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Python                         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+textmate                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
