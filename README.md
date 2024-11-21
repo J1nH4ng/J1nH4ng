@@ -83,9 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           36 mins         █████████████░░░░░░░░░░░░   51.65 %
-YAML                           23 mins         ████████▒░░░░░░░░░░░░░░░░   33.29 %
-BashSupport Pro Shell Script   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+YAML                           23 mins         ████████████████████▓░░░░   82.44 %
+BashSupport Pro Shell Script   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Bash                           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
