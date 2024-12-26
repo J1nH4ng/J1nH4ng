@@ -83,11 +83,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dockerfile                     43 mins         ██████████████▓░░░░░░░░░░   58.46 %
-TypeScript                     15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
-Bash                           12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-BashSupport Pro Shell Script   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-YAML                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash                           12 mins         ████████████████████▓░░░░   82.65 %
+BashSupport Pro Shell Script   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
 ```
 
 <!--END_SECTION:waka-->
