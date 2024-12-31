@@ -83,8 +83,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           12 mins         ████████████████████▓░░░░   82.65 %
-BashSupport Pro Shell Script   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Bash                           1 min           ████████████████████░░░░░   80.24 %
+BashSupport Pro Shell Script   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.76 %
 ```
 
 <!--END_SECTION:waka-->
