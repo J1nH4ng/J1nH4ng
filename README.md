@@ -83,8 +83,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           1 min           ████████████████████░░░░░   80.24 %
-BashSupport Pro Shell Script   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+Markdown                   1 hr 55 mins    ████████████████▓░░░░░░░░   67.20 %
+Nginx configuration file   44 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+Nginx Configuration Pro    11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+INI                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
