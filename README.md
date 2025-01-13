@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,webstorm,vscode,vscodium,sublime,atom,stackoverflow,notion,postman,obsidian&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,clion,idea,webstorm,vscode,vscodium,wordpress,sublime,atom,stackoverflow,notion,postman,obsidian&perline=8" />
   </a>
 </p>
 
