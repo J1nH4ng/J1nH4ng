@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                       5 hrs 49 mins   ███████████████▒░░░░░░░░░   60.81 %
-Bash                           2 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-BashSupport Pro Shell Script   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-YAML                           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-GitIgnore file                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Markdown                       4 hrs 58 mins   ██████████████░░░░░░░░░░░   56.30 %
+Bash                           2 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.30 %
+BashSupport Pro Shell Script   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+YAML                           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+GitIgnore file                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
