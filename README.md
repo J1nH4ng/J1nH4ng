@@ -83,8 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx Configuration Pro   10 mins         ███████████████████░░░░░░   75.43 %
-Markdown                  3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Nginx Configuration Pro   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
