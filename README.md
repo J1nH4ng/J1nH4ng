@@ -83,10 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx Configuration Pro    46 mins         ██████████████████▓░░░░░░   74.93 %
-JSON                       14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-TypeScript                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Nginx Configuration Pro    59 mins         ████████████████▓░░░░░░░░   66.64 %
+JSON                       21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+YAML                       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+TypeScript                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
