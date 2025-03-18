@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                  2 hrs 34 mins   ████████████████▒░░░░░░░░   64.67 %
-YAML                      36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-TypeScript                35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Nginx Configuration Pro   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Groovy                    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown                  2 hrs 15 mins   ██████████████████▓░░░░░░   75.01 %
+TypeScript                32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Nginx Configuration Pro   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Groovy                    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+textmate                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
