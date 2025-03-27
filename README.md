@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Logstash                   3 hrs 10 mins   ███████████████████▓░░░░░   78.08 %
-JSON                       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Rust                       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Nginx Configuration Pro    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Bash                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Rust                      9 mins          █████████░░░░░░░░░░░░░░░░   35.98 %
+Nginx Configuration Pro   6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+Bash                      4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+TypeScript                4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+textmate                  0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
