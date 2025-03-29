@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                      9 mins          █████████░░░░░░░░░░░░░░░░   35.98 %
-Nginx Configuration Pro   6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-Bash                      4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-TypeScript                4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-textmate                  0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Markdown                  1 hr 4 mins     ███████████████████▓░░░░░   79.18 %
+Nginx Configuration Pro   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+TypeScript                5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Bash                      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Rust                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
