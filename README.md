@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-textmate                       53 mins         ████████████▓░░░░░░░░░░░░   50.76 %
-Nginx Configuration Pro        29 mins         ███████░░░░░░░░░░░░░░░░░░   27.90 %
-INI                            7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-JSON                           7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Nginx configuration file       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+textmate                       46 mins         ████████▒░░░░░░░░░░░░░░░░   33.44 %
+Nginx Configuration Pro        29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+JSON                           24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Markdown                       21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+INI                            7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
