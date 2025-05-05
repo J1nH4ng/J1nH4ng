@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           7 hrs 30 mins   ██████████████░░░░░░░░░░░   56.64 %
-BashSupport Pro Shell Script   1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Markdown                       1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-TypeScript                     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-CSS                            27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Bash                           3 hrs 39 mins   █████████████████░░░░░░░░   68.21 %
+BashSupport Pro Shell Script   53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+TypeScript                     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown                       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+textmate                       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
