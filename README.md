@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                     3 hrs 1 min     █████████████████▒░░░░░░░   69.32 %
-Bash                           34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-BashSupport Pro Shell Script   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-TSConfig                       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-JSON                           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+TypeScript                     4 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.51 %
+Bash                           2 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+Nginx Configuration Pro        56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+BashSupport Pro Shell Script   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JSON                           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
