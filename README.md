@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         1 hr 29 mins    ████████████▓░░░░░░░░░░░░   50.00 %
-TypeScript       1 hr 9 mins     █████████▓░░░░░░░░░░░░░░░   38.99 %
-YAML             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-GitIgnore file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-JavaScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Markdown         2 hrs 16 mins   █████████████░░░░░░░░░░░░   52.52 %
+TypeScript       1 hr 40 mins    █████████▓░░░░░░░░░░░░░░░   38.36 %
+YAML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
