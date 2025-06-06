@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML                                      19 mins         ███████████░░░░░░░░░░░░░░   44.62 %
-TypeScript                               11 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
-Markdown                                 7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-Service unit configuration for systemd   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-MJML                                     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Markdown                                 1 hr 40 mins    ███████████████░░░░░░░░░░   59.83 %
+XML                                      19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+MJML                                     14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+TypeScript                               13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+JSON                                     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
