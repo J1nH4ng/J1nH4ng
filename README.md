@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,bash,md,spring,go,nodejs,regex,ts,js,vue,css,html,htmx,lua,githubactions&perline=8" />
+    <img src="https://skillicons.dev/icons?i=rust,bash,md,spring,go,nodejs,regex,ts,js,vue,css,html,htmx,lua,githubactions,openstack,terraform&perline=8" />
   </a>
 </p>
 
