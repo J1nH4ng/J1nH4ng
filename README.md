@@ -83,7 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker     37 mins         ████████▓░░░░░░░░░░░░░░░░   34.31 %
+TOML       33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+textmate   22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Text       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
