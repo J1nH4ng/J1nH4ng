@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                           2 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.68 %
-MDX                            2 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   36.22 %
-BashSupport Pro Shell Script   39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-TypeScript                     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-GitIgnore file                 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+MDX                            3 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.33 %
+Bash                           2 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.27 %
+BashSupport Pro Shell Script   39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+TypeScript                     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+GitIgnore file                 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
