@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX                        2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.67 %
-Rust                       1 hr 50 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-YAML                       50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Nginx Configuration Pro    47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Docker                     44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+MDX                        2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.77 %
+Rust                       1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
+Docker                     50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Nginx Configuration Pro    47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Jenkinsfile                14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
