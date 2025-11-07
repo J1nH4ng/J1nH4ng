@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker                         5 hrs 4 mins    ████████████████▒░░░░░░░░   65.29 %
-Text                           1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-Bash                           39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-BashSupport Pro Shell Script   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Docker File                    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Docker                         1 hr 20 mins    █████████▒░░░░░░░░░░░░░░░   37.53 %
+Text                           1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Bash                           39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+BashSupport Pro Shell Script   24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Markdown                       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
