@@ -83,10 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typst            22 mins         █████████████░░░░░░░░░░░░   51.94 %
-MDX              18 mins         ██████████▓░░░░░░░░░░░░░░   42.25 %
-TypeScript       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
